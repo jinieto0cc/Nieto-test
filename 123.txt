@@ -1,1 +1,1 @@
-sign with PGP
+sign with PGP V2
